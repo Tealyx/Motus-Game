@@ -1,8 +1,6 @@
 # Motus Game (NSI)
 
 This Python project recreates the French word game “Motus”. 
-It was created as part of NSI (Numérique et Sciences Informatiques), 
-a French high school course teaching programming and algorithms.
 
 ## How to play
 Run the script and try to guess the hidden word. Feedback will be given after each guess.
