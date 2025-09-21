@@ -1,6 +1,4 @@
 from faker import Faker
-mot = "putain"
-mot_tab = ["p", "u", "t", "a", "i", "n"]
 
 def rep_user(mot_a_trouver):
     mot_donner = input()
@@ -45,4 +43,5 @@ def Motus():
     jeu(mot)
     
 Motus()
+
 
